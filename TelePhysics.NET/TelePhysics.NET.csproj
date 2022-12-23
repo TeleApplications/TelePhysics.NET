@@ -8,6 +8,6 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Interfaces\" />
+    <Folder Include="Collision\Colliders\" />
   </ItemGroup>
 </Project>
